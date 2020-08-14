@@ -29,7 +29,7 @@ function Product() {
                 <div>
                     <img 
                         src={product.images[0].imageUrl}
-                        alt=
+                        
                     />
                 </div>
                 
